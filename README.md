@@ -11,3 +11,7 @@ https://www.cs.toronto.edu/~rsalakhu/STA4273_2015/lectures.html
 http://vda.univie.ac.at/Teaching/ML/16s/schedule.html
 
 https://lear.inrialpes.fr/~jegou/bishopreadinggroup/
+
+https://github.com/lijin-THU/notes-machine-learning
+
+https://github.com/ctgk/PRML
